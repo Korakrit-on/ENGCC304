@@ -2,7 +2,7 @@
 int main()
 {
     int score = 0;
-    printf("Please enter your score: ");
+    printf("enter score: ");
     scanf("%d", &score);
     printf("Grade: ");
     if (score >= 80)
@@ -33,9 +33,13 @@ int main()
     {
         printf("D !");
     }
-    else
+    else if (score < 50)
     {
         printf("F !");
+    }
+    else
+    {
+        printf("please enter number only.");
     } // end if
     return 0;
 } // end function
