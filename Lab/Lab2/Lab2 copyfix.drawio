@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="QdZjKMF5qiKGtAdssvPj" name="Page-1">
-        <mxGraphModel dx="3133" dy="1814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="3211" dy="1649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -165,18 +165,18 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="201" value="บ" style="swimlane;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-                    <mxGeometry x="-950" y="-330" width="1080" height="1730" as="geometry"/>
+                    <mxGeometry x="-950" y="-330" width="1080" height="2160" as="geometry"/>
                 </mxCell>
                 <mxCell id="202" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot; style=&quot;font-size: 14px;&quot;&gt;จงเขียน Flowchart เพื่อแสดงขั้นตอนการทำงาน ของเครื่องขายน้ำอัตโนมัติที่ชื่อว่า &quot;ตะพาบลอย&quot;&lt;br&gt;โดยจะต้องมีสินค้าดังนี้&lt;br&gt;&lt;u&gt;ประเภทน้ำ&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;ข&lt;/span&gt;นม&lt;/u&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- โค้ก กระป๋องละ 10 บาท&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- เมล็ดทานตะวัน 13 บาท&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- น้ำเขียว กระป๋องละ 12 บาท&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- ถั่วแปบ 20 บาท&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- อเมริกาโน่ 30 บาท&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- จิ้นส้มหมก 15 บาท&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- ลาเต้ หวานเจี๊ยบ 35 บาท&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;u&gt;สิ่งที่ระบบควรจะทำได้&lt;/u&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- ลูกค้าเลือกสินค้า, ระบบจะต้องรวมยอดขาย และรวมรายการสินค้าทั้งหมดที่ลูกค้าเลือก&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- สรุปยอดว่าเหลือเงินในตู้อีกเท่าไหร่ เหลือเหรียญอะไรบ้าง? ธนบัตรอะไรบ้าง? อย่างละเท่าไหร่?&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="201" vertex="1">
                     <mxGeometry x="50" y="10" width="580" height="240" as="geometry"/>
                 </mxCell>
                 <mxCell id="198" value="แก้ไขโจทย์ปัญหา" style="swimlane;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="201" vertex="1">
-                    <mxGeometry x="-110" y="230" width="1190" height="1500" as="geometry"/>
+                    <mxGeometry x="-110" y="210" width="1190" height="1930" as="geometry"/>
                 </mxCell>
                 <mxCell id="200" value="&lt;font face=&quot;Sarabun&quot;&gt;สิ้นสุด&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="198" vertex="1">
-                    <mxGeometry x="455" y="1440" width="60" height="30" as="geometry"/>
+                    <mxGeometry x="492.5" y="1860" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="405" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="170" target="406">
+                <mxCell id="405" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="170" target="406" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="385" y="150" as="targetPoint"/>
                     </mxGeometry>
@@ -184,301 +184,393 @@
                 <mxCell id="170" value="int menu,money,price=0" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
                     <mxGeometry x="325" y="90" width="120" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="408" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="406" target="407">
+                <mxCell id="408" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="406" target="407" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="406" value="print 0:coke 10 baht" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
+                <mxCell id="406" value="print 0:coke 10 baht" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
                     <mxGeometry x="325" y="140" width="120" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="410" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="407" target="409">
+                <mxCell id="410" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="407" target="409" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="407" value="print 1:greenjuice 12 baht" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
+                <mxCell id="407" value="print 1:greenjuice 12 baht" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
                     <mxGeometry x="308.75" y="190" width="152.5" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="412" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="409" target="411">
+                <mxCell id="412" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="409" target="411" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="409" value="print 2:americano 30 baht" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
+                <mxCell id="409" value="print 2:americano 30 baht" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
                     <mxGeometry x="308.76" y="240" width="152.5" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="199" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Sarabun&quot; face=&quot;Sarabun&quot;&gt;เริ่มต้น&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="198" vertex="1">
                     <mxGeometry x="340" y="40" width="90" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="204" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" edge="1" target="170">
+                <mxCell id="204" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" target="170" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="384.71" y="71" as="sourcePoint"/>
                         <mxPoint x="385.21" y="101" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="414" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="411" target="413">
+                <mxCell id="414" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="411" target="413" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="411" value="print 3:latte 35 baht" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
+                <mxCell id="411" value="print 3:latte 35 baht" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
                     <mxGeometry x="325" y="290" width="120" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="416" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="413" target="415">
+                <mxCell id="416" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="413" target="415" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="413" value="print 4:Sunflower seed 13 baht" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
+                <mxCell id="413" value="print 4:Sunflower seed 13 baht" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
                     <mxGeometry x="294.38" y="340" width="177.5" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="418" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="415" target="417">
+                <mxCell id="418" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="415" target="417" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="415" value="print 5:Bean 20 baht" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
+                <mxCell id="415" value="print 5:Bean 20 baht" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
                     <mxGeometry x="317.5" y="390" width="135" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="420" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="417" target="425">
+                <mxCell id="420" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="417" target="425" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="400" y="490" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="417" value="print 6:sour pork 15 baht" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
+                <mxCell id="417" value="print 6:sour pork 15 baht" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
                     <mxGeometry x="314.38" y="440" width="141.25" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="422" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="419" target="421">
+                <mxCell id="422" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="419" target="421" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="419" value="switch(menu)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
-                    <mxGeometry x="325" y="540" width="120" height="30" as="geometry"/>
+                <mxCell id="419" value="switch(menu)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
+                    <mxGeometry x="325.01" y="600" width="120" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="423" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="421" target="431">
+                <mxCell id="423" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="421" target="431" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="220" y="660" as="targetPoint"/>
+                        <mxPoint x="217.5" y="720" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="270" y="620"/>
+                            <mxPoint x="267.5" y="680"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="424" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="423">
+                <mxCell id="424" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="423" vertex="1" connectable="0">
                     <mxGeometry x="-0.36" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="432" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="421" target="433">
+                <mxCell id="432" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="421" target="433" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="510" y="650" as="targetPoint"/>
+                        <mxPoint x="507.5" y="710" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="470" y="620"/>
+                            <mxPoint x="467.5" y="680"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="434" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="432">
+                <mxCell id="434" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="432" vertex="1" connectable="0">
                     <mxGeometry x="0.1302" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="421" value="case 0" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
-                    <mxGeometry x="335" y="590" width="100" height="60" as="geometry"/>
+                <mxCell id="421" value="case 0" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
+                    <mxGeometry x="332.5" y="650" width="100" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="426" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="425" target="419">
-                    <mxGeometry relative="1" as="geometry"/>
+                <mxCell id="426" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="198" source="425" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="385" y="540" as="targetPoint"/>
+                    </mxGeometry>
                 </mxCell>
-                <mxCell id="425" value="input value:menu" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
+                <mxCell id="425" value="input value:menu" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
                     <mxGeometry x="325.01" y="490" width="120" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="435" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.145;entryY=0.855;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="198" source="431" target="464">
+                <mxCell id="435" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.145;entryY=0.855;entryDx=0;entryDy=0;entryPerimeter=0;" parent="198" source="431" target="464" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="273" y="760" as="targetPoint"/>
+                        <mxPoint x="270.5" y="820" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="280" y="1010"/>
+                            <mxPoint x="277.5" y="1070"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="431" value="print &quot;You choose coke&quot;&lt;div&gt;break;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
-                    <mxGeometry x="212.5" y="650" width="120" height="30" as="geometry"/>
+                <mxCell id="431" value="print &quot;You choose coke&quot;&lt;div&gt;break;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
+                    <mxGeometry x="210" y="710" width="120" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="438" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="433" target="437">
+                <mxCell id="438" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="433" target="437" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="380" y="680" as="targetPoint"/>
+                        <mxPoint x="377.5" y="740" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="380" y="675"/>
+                            <mxPoint x="377.5" y="735"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="440" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="433" target="439">
+                <mxCell id="473" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="438">
+                    <mxGeometry x="-0.2589" y="1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="440" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="433" target="439" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="580" y="670"/>
+                            <mxPoint x="577.5" y="730"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="433" value="case 1" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
-                    <mxGeometry x="420" y="645" width="100" height="60" as="geometry"/>
+                <mxCell id="474" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="440">
+                    <mxGeometry x="-0.0744" y="2" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
                 </mxCell>
-                <mxCell id="437" value="print &quot;You choose greenjuice&quot;&lt;div&gt;break;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
-                    <mxGeometry x="314.38" y="705" width="137.5" height="35" as="geometry"/>
+                <mxCell id="433" value="case 1" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
+                    <mxGeometry x="417.5" y="705" width="100" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="442" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="439" target="441">
+                <mxCell id="437" value="print &quot;You choose greenjuice&quot;&lt;div&gt;break;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
+                    <mxGeometry x="311.88" y="765" width="137.5" height="35" as="geometry"/>
+                </mxCell>
+                <mxCell id="442" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="439" target="441" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="487" y="720"/>
+                            <mxPoint x="484.5" y="780"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="444" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="439" target="443">
+                <mxCell id="475" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="442">
+                    <mxGeometry x="-0.2153" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="444" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="439" target="443" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="670" y="720"/>
+                            <mxPoint x="667.5" y="780"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="439" value="case 2" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
-                    <mxGeometry x="530" y="690" width="100" height="60" as="geometry"/>
+                <mxCell id="476" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="444">
+                    <mxGeometry x="-0.2714" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
                 </mxCell>
-                <mxCell id="441" value="print &quot;choose americano&quot;&lt;div&gt;break;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
-                    <mxGeometry x="422.5" y="750" width="125" height="30" as="geometry"/>
+                <mxCell id="439" value="case 2" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
+                    <mxGeometry x="527.5" y="750" width="100" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="446" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="443" target="445">
+                <mxCell id="441" value="print &quot;choose americano&quot;&lt;div&gt;break;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
+                    <mxGeometry x="420" y="810" width="125" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="446" value="false" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="443" target="445" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="750" y="780"/>
+                            <mxPoint x="747.5" y="840"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="452" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="443" target="451">
+                <mxCell id="452" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="443" target="451" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="567" y="780"/>
+                            <mxPoint x="564.5" y="840"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="443" value="case 3" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
-                    <mxGeometry x="620" y="750" width="100" height="60" as="geometry"/>
+                <mxCell id="477" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="452">
+                    <mxGeometry x="-0.032" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
                 </mxCell>
-                <mxCell id="448" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="445" target="447">
+                <mxCell id="443" value="case 3" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
+                    <mxGeometry x="617.5" y="810" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="448" value="false" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="445" target="447" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="830" y="840"/>
+                            <mxPoint x="827.5" y="900"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="454" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="445" target="453">
+                <mxCell id="454" value="true" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="445" target="453" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="650" y="840"/>
+                            <mxPoint x="647.5" y="900"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="445" value="case 4" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
-                    <mxGeometry x="700" y="810" width="100" height="60" as="geometry"/>
+                <mxCell id="445" value="case 4" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
+                    <mxGeometry x="697.5" y="870" width="100" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="450" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="447" target="449">
+                <mxCell id="450" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="447" target="449" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="910" y="900"/>
+                            <mxPoint x="907.5" y="960"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="456" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="447" target="455">
+                <mxCell id="479" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="450">
+                    <mxGeometry x="-0.4381" y="-2" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="456" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="447" target="455" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="730" y="900"/>
+                            <mxPoint x="727.5" y="960"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="447" value="case 5" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
-                    <mxGeometry x="780" y="870" width="100" height="60" as="geometry"/>
+                <mxCell id="478" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="456">
+                    <mxGeometry x="-0.0402" y="1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
                 </mxCell>
-                <mxCell id="458" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="449" target="457">
+                <mxCell id="447" value="case 5" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
+                    <mxGeometry x="777.5" y="930" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="458" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="449" target="457" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="812" y="970"/>
+                            <mxPoint x="809.5" y="1030"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="460" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="449" target="459">
+                <mxCell id="480" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="458">
+                    <mxGeometry x="-0.256" y="-1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="460" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="449" target="459" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="980" y="970"/>
+                            <mxPoint x="977.5" y="1030"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="449" value="case 6" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
-                    <mxGeometry x="860" y="940" width="100" height="60" as="geometry"/>
+                <mxCell id="481" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="460">
+                    <mxGeometry x="-0.5667" y="1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
                 </mxCell>
-                <mxCell id="451" value="print &quot;choose latte&quot;&lt;div&gt;break;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
-                    <mxGeometry x="515" y="800" width="105" height="30" as="geometry"/>
+                <mxCell id="449" value="case 6" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
+                    <mxGeometry x="857.5" y="1000" width="100" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="453" value="print &quot;choose sunflowerseed&quot;&lt;div&gt;break;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
-                    <mxGeometry x="580" y="860" width="145" height="30" as="geometry"/>
+                <mxCell id="451" value="print &quot;choose latte&quot;&lt;div&gt;break;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
+                    <mxGeometry x="512.5" y="860" width="105" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="455" value="print &quot;choose bean&quot;&lt;div&gt;break;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
-                    <mxGeometry x="680" y="920" width="105" height="30" as="geometry"/>
+                <mxCell id="453" value="print &quot;choose sunflowerseed&quot;&lt;div&gt;break;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
+                    <mxGeometry x="577.5" y="920" width="145" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="457" value="print &quot;choose sour pork&quot;&lt;div&gt;break;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
-                    <mxGeometry x="750" y="990" width="120" height="30" as="geometry"/>
+                <mxCell id="455" value="print &quot;choose bean&quot;&lt;div&gt;break;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
+                    <mxGeometry x="677.5" y="980" width="105" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="462" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="459" target="463">
+                <mxCell id="457" value="print &quot;choose sour pork&quot;&lt;div&gt;break;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
+                    <mxGeometry x="747.5" y="1050" width="130" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="462" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="459" target="463" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="889.9999999999995" y="1039.5294117647059" as="targetPoint"/>
+                        <mxPoint x="887.4999999999995" y="1099.5294117647059" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="860" y="1040"/>
+                            <mxPoint x="857.5" y="1100"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="459" value="default" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
-                    <mxGeometry x="930" y="1010" width="100" height="60" as="geometry"/>
+                <mxCell id="459" value="default" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
+                    <mxGeometry x="927.5" y="1070" width="100" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="465" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.855;entryY=0.855;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="198" source="463" target="464">
+                <mxCell id="465" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.855;entryY=0.855;entryDx=0;entryDy=0;entryPerimeter=0;" parent="198" source="463" target="464" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="859.9411764705883" y="1200" as="targetPoint"/>
+                        <mxPoint x="857.4411764705883" y="1260" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="860" y="1190"/>
+                            <mxPoint x="857.5" y="1250"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="463" value="print &quot;choose number 0-6 only&quot;&lt;div&gt;break;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
-                    <mxGeometry x="785" y="1060" width="150" height="40" as="geometry"/>
+                <mxCell id="463" value="print &quot;please choose menu on the list only(0-6)&quot;&lt;div&gt;break;&lt;/div&gt;&lt;div&gt;return 1;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
+                    <mxGeometry x="782.5" y="1120" width="150" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="472" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="198" source="464">
+                <mxCell id="472" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="464" edge="1" target="484">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="485" y="1300" as="targetPoint"/>
+                        <mxPoint x="483" y="1310" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="464" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="198">
-                    <mxGeometry x="475" y="1200" width="20" height="20" as="geometry"/>
+                <mxCell id="464" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="198" vertex="1">
+                    <mxGeometry x="472.5" y="1240" width="20" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="466" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="198" source="457" target="464">
+                <mxCell id="466" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="198" source="457" target="464" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="550" y="1210" as="targetPoint"/>
+                        <mxPoint x="547.5" y="1270" as="targetPoint"/>
                         <Array as="points">
-                            <mxPoint x="810" y="1040"/>
-                            <mxPoint x="610" y="1150"/>
+                            <mxPoint x="807.5" y="1100"/>
+                            <mxPoint x="607.5" y="1210"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="467" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="198" source="455" target="464">
+                <mxCell id="467" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="198" source="455" target="464" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="730" y="1030"/>
+                            <mxPoint x="727.5" y="1090"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="468" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.855;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="198" source="453" target="464">
+                <mxCell id="468" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.855;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;" parent="198" source="453" target="464" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="650" y="1040"/>
+                            <mxPoint x="647.5" y="1100"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="469" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="198" source="451" target="464">
+                <mxCell id="469" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="198" source="451" target="464" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="567" y="1020"/>
+                            <mxPoint x="564.5" y="1080"/>
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="470" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.145;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="198" source="441" target="464">
+                <mxCell id="470" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.145;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;" parent="198" source="441" target="464" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="471" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="198" source="437" target="464">
+                <mxCell id="471" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="198" source="437" target="464" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <Array as="points">
-                            <mxPoint x="390" y="970"/>
+                            <mxPoint x="387.5" y="1030"/>
                         </Array>
                     </mxGeometry>
+                </mxCell>
+                <mxCell id="483" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="482" target="419">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="482" value="do" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
+                    <mxGeometry x="325.01" y="540" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="486" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="484" target="485">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="484" value="totalCost = totalCost + cost" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
+                    <mxGeometry x="408.75" y="1290" width="147.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="490" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="485" target="488">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="485" value="print &quot;total cost:&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
+                    <mxGeometry x="408.75" y="1340" width="147.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="489" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="198" source="488">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="481.8571428571431" y="1450" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="488" value="print&quot;do you want anything else?(y,n)&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
+                    <mxGeometry x="408.75" y="1390" width="147.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="492" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="491" target="493">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="481.8571428571431" y="1520" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="491" value="input value:addMore" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
+                    <mxGeometry x="408.75" y="1450" width="147.5" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="494" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="198" source="493">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="310" y="1590" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="310" y="1550"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="493" value="addMore == y?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
+                    <mxGeometry x="432.5" y="1520" width="100" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
