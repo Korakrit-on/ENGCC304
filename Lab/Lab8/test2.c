@@ -72,7 +72,7 @@ int main() {
                 }
             printf( "Thanks for using" ) ;
         } else {
-            printf( "Don't have enough money . Please put in money\n" );
+            printf( "Don't have enough money. Please put in money\n" );
         }
     return 0 ;//end change
 }
