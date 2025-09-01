@@ -22,7 +22,7 @@ int main() {
             break ;
         case 1 : 
             cost = 12 ; 
-            printf( "Green soda %d baht\n",cost ) ; 
+            printf( "Green juice %d baht\n",cost ) ; 
             break ;
         case 2 :
             cost = 30 ; 
@@ -45,14 +45,14 @@ int main() {
             printf( "sour pork %d baht\n",cost ) ; 
             break ;
         default :
-            printf(  "Plese choose menu in the list only(0-6) \n" ) ;
+            printf(  "Plese choose orders in the list only(0-6) \n" ) ;
             break ;
             return 1 ;
     }//end switch
 
     totalCost += cost;
     printf("total cost:%d\n ",totalCost);
-    printf("do you want anything else?(y,n)\n");
+    printf("Would you like take another order?(y,n)\n");
     scanf(" %c",&addMore);
     if (addMore == 'y'){
     printf("please choose your goods(0-6)\n");
@@ -66,14 +66,14 @@ int main() {
     scanf( "%d", &money ) ;
         if( money >= totalCost ) {
             int change = money - totalCost ;
-            printf( "Please Receive Your Goods\n" ) ;
+            printf( "Please take Your Orders above.\n") ;
                 if (change > 0 ) {
                 printf ("Your change is : %d baht\n", change ) ;
                 }
             printf( "Thanks for using" ) ;
         } else {
             printf( "Don't have enough money. Please put in money\n" );
-        }
+        } 
     return 0 ;//end change
-}
+} //end main
     

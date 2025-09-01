@@ -229,9 +229,9 @@
                 <mxCell id="415" value="print 5:Bean 20 baht" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
                     <mxGeometry x="317.5" y="390" width="135" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="420" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="417" target="425" edge="1">
+                <mxCell id="420" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="417" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="400" y="490" as="targetPoint"/>
+                        <mxPoint x="385.0100000000002" y="490" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="417" value="print 6:sour pork 15 baht" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
@@ -272,13 +272,11 @@
                 <mxCell id="421" value="case 0" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
                     <mxGeometry x="332.5" y="650" width="100" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="426" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="198" source="425" edge="1">
+                <mxCell id="426" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="198" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="385" y="540" as="targetPoint"/>
+                        <mxPoint x="385.0100000000002" y="520" as="sourcePoint"/>
                     </mxGeometry>
-                </mxCell>
-                <mxCell id="425" value="input value:menu" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
-                    <mxGeometry x="325.01" y="490" width="120" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="435" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.145;entryY=0.855;entryDx=0;entryDy=0;entryPerimeter=0;" parent="198" source="431" target="464" edge="1">
                     <mxGeometry relative="1" as="geometry">
@@ -288,7 +286,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="431" value="print &quot;You choose coke&quot;&lt;div&gt;break;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
+                <mxCell id="431" value="print &quot;coke 10 baht&quot;,cost&lt;div&gt;break;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
                     <mxGeometry x="210" y="710" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="438" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="433" target="437" edge="1">
@@ -319,8 +317,8 @@
                 <mxCell id="433" value="case 1" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
                     <mxGeometry x="417.5" y="705" width="100" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="437" value="print &quot;You choose greenjuice&quot;&lt;div&gt;break;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
-                    <mxGeometry x="311.88" y="765" width="137.5" height="35" as="geometry"/>
+                <mxCell id="437" value="print &quot;greenjuice 12 baht&quot;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;,cost&lt;/span&gt;&lt;div&gt;break;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
+                    <mxGeometry x="308.75" y="757.5" width="137.5" height="45" as="geometry"/>
                 </mxCell>
                 <mxCell id="442" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="439" target="441" edge="1">
                     <mxGeometry relative="1" as="geometry">
@@ -349,7 +347,7 @@
                 <mxCell id="439" value="case 2" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
                     <mxGeometry x="527.5" y="750" width="100" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="441" value="print &quot;choose americano&quot;&lt;div&gt;break;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
+                <mxCell id="441" value="print &quot;americano 30 baht&quot;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;,cost&lt;/span&gt;&lt;div&gt;break;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
                     <mxGeometry x="420" y="810" width="125" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="446" value="false" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="443" target="445" edge="1">
@@ -445,17 +443,17 @@
                 <mxCell id="449" value="case 6" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
                     <mxGeometry x="857.5" y="1000" width="100" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="451" value="print &quot;choose latte&quot;&lt;div&gt;break;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
-                    <mxGeometry x="512.5" y="860" width="105" height="30" as="geometry"/>
+                <mxCell id="451" value="print &quot;latte 35 baht&quot; ,&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;cost&lt;/span&gt;&lt;div&gt;break;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
+                    <mxGeometry x="512.5" y="860" width="107.5" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="453" value="print &quot;choose sunflowerseed&quot;&lt;div&gt;break;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
-                    <mxGeometry x="577.5" y="920" width="145" height="40" as="geometry"/>
+                <mxCell id="453" value="print &quot;sunflower seed 13 baht &quot;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;,cost&lt;/span&gt;&lt;div&gt;break;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
+                    <mxGeometry x="577.5" y="920" width="152.5" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="455" value="print &quot;choose bean&quot;&lt;div&gt;break;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
-                    <mxGeometry x="677.5" y="980" width="105" height="30" as="geometry"/>
+                <mxCell id="455" value="print &quot;bean 20 baht&quot;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;,cost&lt;/span&gt;&lt;div&gt;break;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
+                    <mxGeometry x="677.5" y="980" width="105" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="457" value="print &quot;choose sour pork&quot;&lt;div&gt;break;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
-                    <mxGeometry x="747.5" y="1050" width="130" height="30" as="geometry"/>
+                <mxCell id="457" value="print &quot;sour pork 15 baht&quot;&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;,cost&lt;/span&gt;&lt;div&gt;break;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" parent="198" vertex="1">
+                    <mxGeometry x="747.5" y="1050" width="130" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="462" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="198" source="459" target="463" edge="1">
                     <mxGeometry relative="1" as="geometry">
@@ -597,8 +595,11 @@
                 <mxCell id="499" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="496" target="498">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="496" value="please choose your goods(0-6)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
-                    <mxGeometry x="240" y="1590" width="147.5" height="30" as="geometry"/>
+                <mxCell id="546" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="496" target="497">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="496" value="please select your order(0-6)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
+                    <mxGeometry x="233.75" y="1590" width="160" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="503" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="198" source="501">
                     <mxGeometry relative="1" as="geometry">
@@ -611,6 +612,14 @@
                 </mxCell>
                 <mxCell id="504" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="503">
                     <mxGeometry x="-0.8784" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="547" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="497" target="501">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="548" value="while" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="547">
+                    <mxGeometry x="-0.2431" y="1" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
@@ -696,7 +705,7 @@
                 <mxCell id="525" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="522" target="524">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="522" value="print &quot;Please recieve your goods&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
+                <mxCell id="522" value="print &quot;Please recieve your orders&quot;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
                     <mxGeometry x="324.38" y="2120" width="147.5" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="526" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="198" source="524" target="528">
@@ -767,6 +776,9 @@
                 </mxCell>
                 <mxCell id="544" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="198">
                     <mxGeometry x="387.5" y="2300" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="550" value="input value(0-6):menu" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Sarabun;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSarabun;" vertex="1" parent="198">
+                    <mxGeometry x="314.38" y="490" width="152.5" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
