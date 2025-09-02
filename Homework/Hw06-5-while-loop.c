@@ -1,27 +1,27 @@
 #include<stdio.h>
 int main() {
-    int n, i, j, primeNum;
+    int n, i, primeNum;
     printf("Test case:\n");
     printf("Enter number:");
     scanf("%d",&n);
     printf("output:");
 
-    i = n;
-    while (i >= 2){
+    //วน จาก n ลงมาถึง 2
+    while (n >= 2){ //start loop1
         primeNum = 1; //สมมติเป็นจำนวนเฉพาะ
-        j = 2;//เริ่มตัวหารจาก 2
-        while (j <= i / 2){
-            if (i % j == 0){ //ถ้า i หารด้วย j เป็นเศษ 0
+        i = 2;//เริ่มตัวหารจาก 2
+        while (i <= n / 2){ //start loop2
+            if (n % i == 0){ //ถ้า n หารด้วย i เป็นเศษ 0
                 primeNum = 0; //ไม่ใช่จำนวนเฉพาะ
             }//end if
-            j++;//ตัวหารถัดไป
-        }
+            i++;//ตัวหารถัดไป
+        }//end loop2
         
         if (primeNum == 1){
-            printf("%d ", i);
+            printf("%d ", n);
         }//end if
-        i--;
-    }
+        n--;
+    }//end loop1
+    return 0;
     
-    
-}
+}//end program

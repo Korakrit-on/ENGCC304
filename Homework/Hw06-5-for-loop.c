@@ -1,23 +1,23 @@
 #include<stdio.h>
 int main() {
-    int n, i, j, primeNum;
+    int n, i, primeNum;
     printf("Test case:\n");
     printf("Enter number:");
     scanf("%d",&n);
     printf("output:");
-    //วน จาก n ลงมาถึง 2
     
-    for (i = n; i >= 2; i--){
+    //วน จาก n ลงมาถึง 2
+    for (n; n >= 2; n--){
         primeNum = 1; //สมมติเป็นจำนวนเฉพาะ
 
-        //i มีตัวหารที่ไม่ใช่ 1 และตัวมันเอง ?
-        for (j = 2; j <= i / 2; j++){
-            if (i % j == 0){ //ถ้า i หารด้วย j เป็นเศษ 0
+        //เช็ค n มีตัวหารที่ไม่ใช่ 1 และตัวมันเอง ?
+        for (i = 2; i <= n / 2; i++){
+            if (n % i == 0){ //ถ้า n หารด้วย i เป็นเศษ 0
                 primeNum = 0; //ไม่ใช่จำนวนเฉพาะ
             }//end if
         }//end loop
     if (primeNum == 1){
-            printf("%d ", i);
+            printf("%d ", n);
         }//end if
         
         
