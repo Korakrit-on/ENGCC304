@@ -3,7 +3,7 @@ int main(){
 
     char Name[50];
     int Age = 0;
-    printf("Enter Your Name:\n ");
+    printf("Enter Your Name: ");
     scanf("%s",&Name);
     printf("Enter Your Age: ");
     scanf("%d",&Age);
