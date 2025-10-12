@@ -25,7 +25,7 @@ int main() {
     printf("Enter a number:\n");
     scanf("%d", &num);
 
-    if (isArmstrong(num))
+    if (armStrong(num))
         printf("Pass\n");
     else
         printf("Not Pass\n");
