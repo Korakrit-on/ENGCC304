@@ -1,22 +1,23 @@
 #include <stdio.h>
 
 int main() {
-    int empID[10];
-    float hours, rate, total;
+    char empID[11];
+    int hours;
+    float rate, salary;
 
     printf("Input the Employees ID(Max. 10 chars): ");
-    scanf("%d", &empID);
+    scanf("%10s", &empID);
 
     printf("Input the working hrs: ");
-    scanf("%f", &hours);
+    scanf("%d", &hours);
 
     printf("Salary amount/hr: ");
     scanf("%f", &rate);
 
-    total = hours * rate;
+    salary = hours * rate;
     printf("----\n");
-    printf("Employee ID: %d\n", empID);
-    printf("Total income: %.2f\n", total);
+    printf("Employee ID: %s\n", empID);
+    printf("Total income: %.2f\n", salary);
 
     return 0;
 }
